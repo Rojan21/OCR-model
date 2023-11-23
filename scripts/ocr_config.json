@@ -15,7 +15,7 @@
             }
 
         ],
-        "epoch_size": 100000,
+        "epoch_size": null,
         "batch_size": 64
     },
     "val": {
